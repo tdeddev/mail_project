@@ -12,7 +12,7 @@ See [Vite Configuration Reference](https://vitejs.dev/config/).
 
 ## Project Setup
 
-```sh
+``` sh
 npm install
 ```
 
@@ -26,4 +26,15 @@ npm run dev
 
 ```sh
 npm run build
+```
+## Back-End Setup
+
+``` sh
+npm install
+```
+
+### Start Back-End
+
+``` sh
+npm start
 ```
