@@ -38,3 +38,18 @@ npm install
 ``` sh
 npm start
 ```
+
+# Library Tool
+
+## axios
+## pinia
+## primevue
+## quill
+## sweetalert2
+## vue
+## vue-router
+## body-parser
+## cors
+## dotenv
+## express
+## nodemailer
