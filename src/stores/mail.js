@@ -13,7 +13,6 @@ export const useMailStore = defineStore('main', {
         if(response){
           this.textBox = response.data
         }
-        console.log(this.textBox)
       } catch (error) {
         console.log(error)
       }
